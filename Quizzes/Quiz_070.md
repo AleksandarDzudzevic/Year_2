@@ -1,4 +1,4 @@
-![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz070text.png)
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz071text.png)
 ![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/quiz070notes.jpg)
 ## Quiz 070
 ```.py
