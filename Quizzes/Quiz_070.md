@@ -1,6 +1,8 @@
-![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz071text.png)
-![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/quiz070notes.jpg)
 ## Quiz 070
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz071text.png)
+### Classwork
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/quiz070notes.jpg)
+### Code
 ```.py
 def ip4vmachine():
     address=[]
@@ -14,3 +16,4 @@ def ip4vmachine():
 print(ip4vmachine())
 # IT WILL NEVER LOAD BECAUSE it is over 4 billion addresses!!!!
 ```
+### No proof of work as the code can't run 4 billion addreses
