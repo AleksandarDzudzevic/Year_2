@@ -1,5 +1,8 @@
+## Quiz 071
 ![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz070text.png)
+### Classwork
 ![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/quiz071notes.jpg)
+### Code
 ```.py
 from random import randint
 import time
@@ -30,3 +33,5 @@ end_time = time.time()
 execution_time = end_time - start_time
 print("Execution time:", execution_time, "seconds")
 ```
+### Proof of work
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz071proof.png)
