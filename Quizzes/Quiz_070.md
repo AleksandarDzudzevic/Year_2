@@ -16,4 +16,4 @@ def ip4vmachine():
 print(ip4vmachine())
 # IT WILL NEVER LOAD BECAUSE it is over 4 billion addresses!!!!
 ```
-### No proof of work as the code can't run 4 billion addreses
+### No proof of work as the code can't run 4 billion addresses
