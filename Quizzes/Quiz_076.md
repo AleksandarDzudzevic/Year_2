@@ -1,6 +1,6 @@
 ## Quiz 076
 ### Classwork
-![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz076Classswork.png)
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz076Classwork.jpg)
 ### Code
 ```.py
 class ErrorChecker():
