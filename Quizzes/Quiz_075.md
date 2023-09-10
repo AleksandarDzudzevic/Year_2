@@ -3,5 +3,7 @@
 ### Classwork
 ![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz075Classwork.jpg)
 ### Code
+```.py
 
+```
 ### Proof of work
