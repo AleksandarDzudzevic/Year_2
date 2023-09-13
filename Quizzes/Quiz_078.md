@@ -1,5 +1,6 @@
 ## Quiz 078
 ### Classwork
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz078classwork.jpg)
 ### Code
 ```.py
 class firewall:
