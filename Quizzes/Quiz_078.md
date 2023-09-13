@@ -22,3 +22,4 @@ class firewall:
             return(f"Filtered {False}")
 ```
 ### Proof of work
+![](https://github.com/AleksandarDzudzevic/Year_2/blob/main/Quiz078proof.png)
